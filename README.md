@@ -2,7 +2,7 @@
 
 Extract multiple sets of sequences, mutually exclusive or not, from a single fasta file.
 
-This script takes multiple lists of sequence ids as input and then extracts the sequences in each list from a single fasta file. A seperate fasta file is created for each list of sequence ids. This is an especially useful operation if one has, for example, clustered genes based on expression patterns and now wants to extract sequences for the genes in each cluster for further analysis (see [here](https://github.com/milesroberts-123/extract-promoter-sequences) for how to build promoter sequences that you can extract from).
+This script takes multiple lists of sequence ids as input and then extracts the sequences in each list from a single fasta file. A seperate fasta file is created for each list of sequence ids. This is an especially useful operation if one has, for example, clustered genes based on their expression patterns and now wants to extract the sequences of the genes or promoters in each cluster for further analysis (see [here](https://github.com/milesroberts-123/extract-promoter-sequences) for how to build promoter sequences that you can extract from).
 
 ## USAGE
 
